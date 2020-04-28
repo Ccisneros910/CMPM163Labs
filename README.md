@@ -17,3 +17,5 @@ Lab 4
 24-a) x = floor(8 x u)
 24-b) y = floor(8 x (1-v))
 24-c) White
+
+https://drive.google.com/file/d/19BdMStXjfi41PSs-VIVPOVxfCySpqyai/view?usp=sharing
