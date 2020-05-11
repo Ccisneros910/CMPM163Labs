@@ -38,3 +38,7 @@ Lab 6
 2) Point Light - Works similar to a light bulb. It emits light from a point in space and what is affected is determined by the position,  range and intensity. But regardless of its rotation all objects in its radius will be affected by its light.
 3) Spot Light - Works similar to a flash light/headlamp. It emits light in a cone and its angle can be adjusted to affect how wide its cone shines. It is also affected by rotation and position.
 4) Area Light - Only work when baking a light map and shine in all directions on one side of a rectangular plane.
+
+  Material
+I replicated the material of an orange. I started by changing the Albedo to a color similar to the orange that I have in my room.
+But the material was too flat, so I added an orange texture and applied that to the albedo and normal properties. Refining the material is still in progress because its shadows look unusual.
