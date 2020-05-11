@@ -30,3 +30,11 @@ Video: https://drive.google.com/file/d/1R3gVutlondSyk-4dKXQyovtMUj7EG_sb/view?us
 Changes: The are two modifications to the game.
 1) The ring checkpoints of the game have a material that was made using Unity's shader graph. The material is blue with a green, pulsing Fresnel effect.
 2) When the player reaches the last checkpoint, two particle affects with rainbow colors play by the finish line to congratulate the player.
+
+Lab 6
+
+  Lights
+1) Directional Light - Applies light to all the objects in a scene similar to sunlight. The rotation of the directional light determines how the scene's objects are affected by the light.
+2) Point Light - Works similar to a light bulb. It emits light from a point in space and what is affected is determined by the position,  range and intensity. But regardless of its rotation all objects in its radius will be affected by its light.
+3) Spot Light - Works similar to a flash light/headlamp. It emits light in a cone and its angle can be adjusted to affect how wide its cone shines. It is also affected by rotation and position.
+4) Area Light - Only work when baking a light map and shine in all directions on one side of a rectangular plane.
