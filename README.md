@@ -43,6 +43,8 @@ Lab 6
 I replicated the material of an orange. I started by changing the Albedo to a color similar to the orange that I have in my room.
 But the material was too flat, so I added an orange texture and applied that to the albedo and normal properties. Refining the material is still in progress because its shadows look unusual.
 
+![](images/orange.jpg)
+
   Textures
 I found two textures online. The first was for a crate and I applied that to a cube. The second was a metal texture that appears worn and scratched up. I applied this to a cylinder and experimented with making the texture into a normal map and applied those both to the same material. This produced a more realistic look to the single cylinder, compared to the cube that only has the texture. There is a clear difference between their surfaces in how they react to the light in the scene.
 
