@@ -52,3 +52,13 @@ I found two textures online. The first was for a crate and I applied that to a c
 After reading about the six-sided skybox material, I decided to make a skybox material with a variety of images to see how they come together. This made the scene appear as though it is in side a box with a different image on each wall. 
 
 ![](images/lab6_scene.PNG)
+
+Lab 7
+
+Video: https://drive.google.com/file/d/1GKVCULTCONXJmLsDC8uV894RHljE8MUw/view?usp=sharing
+
+Parter Responses:
+1. I did Part2
+2. I found step 19. of Part2 a little hard to understand
+3. I found Part2c most interesting.
+
