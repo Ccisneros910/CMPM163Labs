@@ -172,7 +172,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 5bcf8ed8ae3bcfe4c9d2d15ac038241d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -424,10 +424,6 @@ MonoBehaviour:
   - {fileID: 147108, guid: 3d01ef65dd7df27469c08a5faaf917bd, type: 3}
   - {fileID: 151704, guid: 43cefcf568e58d84d802bbb3c6a74777, type: 3}
   - {fileID: 189348, guid: d597a8fa6b192c545bbae896e4d42a21, type: 3}
-  - {fileID: 117616, guid: b2fcb4869e568194ebff11fc13530282, type: 3}
-  - {fileID: 164186, guid: 75ce498590d12b14b97bb91249eee61b, type: 3}
-  - {fileID: 105450, guid: b8800faccef09f047b9aab74ce0d163d, type: 3}
-  - {fileID: 193488, guid: ed8ca91ea98dcb54397b4145af6c0b2e, type: 3}
   - {fileID: 7390115424977298280, guid: 85fdf7aaf4dc00e4cbf9227b0c1adcf7, type: 3}
   mapWidth: 50
   mapHeight: 50
