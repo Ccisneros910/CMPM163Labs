@@ -62,3 +62,10 @@ Parter Responses:
 2. I found step 19. of Part2 a little hard to understand
 3. I found Part2c most interesting.
 
+
+Lab 8
+Part 2
+![](images/lab8_tutorial_result.PNG)
+
+Part 3
+![](images/inspiration.PNG)
