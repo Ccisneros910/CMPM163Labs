@@ -68,4 +68,4 @@ Part 2
 ![](images/lab8_tutorial_result.PNG)
 
 Part 3
-![](images/inspiration.PNG)
+![](images/inspiration.jpg)
