@@ -17,7 +17,7 @@ RenderSettings:
   m_Fog: 1
   m_FogColor: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 1}
   m_FogMode: 3
-  m_FogDensity: 0.01
+  m_FogDensity: 0.008
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
@@ -383,13 +383,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.21174279, y: 0.24231388, z: -0.050239816, w: 0.94547606}
+  m_LocalPosition: {x: 4.6, y: 28.52, z: -22.45}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 25.134, y: 28.857002, z: 0.48200002}
 --- !u!1 &1660209390
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,6 +424,9 @@ MonoBehaviour:
   - {fileID: 147108, guid: 3d01ef65dd7df27469c08a5faaf917bd, type: 3}
   - {fileID: 151704, guid: 43cefcf568e58d84d802bbb3c6a74777, type: 3}
   - {fileID: 189348, guid: d597a8fa6b192c545bbae896e4d42a21, type: 3}
+  - {fileID: 164186, guid: 75ce498590d12b14b97bb91249eee61b, type: 3}
+  - {fileID: 193488, guid: ed8ca91ea98dcb54397b4145af6c0b2e, type: 3}
+  - {fileID: 104020, guid: 6e52f6e5c549dca4381c78a24c505338, type: 3}
   - {fileID: 7390115424977298280, guid: 85fdf7aaf4dc00e4cbf9227b0c1adcf7, type: 3}
   mapWidth: 50
   mapHeight: 50
