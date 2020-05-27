@@ -72,7 +72,7 @@ Part 3
 
 To get closer to the inspiration image, I first added a sunset skybox and fog to the scene. The hardest part was getting the taller buildings to generate with the rest. Initially, many would generate right next to each other and overlap. To overcome this, I had a variable that tracked when the last building of a specific type last spawned. It would spawn once, and then wait until the x-th number to spawn another one. But it would place a box of grass where a building would have gone to cover up the empty space.
 
-![](images/lab8_inspiration.jpg)
+![](images/lab8_tutorial_result.PNG)
 
 My partner did the three.js portion of the lab. They made positioned a sphere to look like a sun cresting over their city. It looked very majestic. But there was nothing new learned.
 We did not help each other for the lab as we did different parts of the assignment.
