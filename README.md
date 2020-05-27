@@ -69,3 +69,7 @@ Part 2
 
 Part 3
 ![](images/lab8_inspiration.jpg)
+
+To get closer to the inspiration image, I first added a sunset skybox and fog to the scene. The hardest part was getting the taller buildings to generate with the rest. Initially, many would generate right next to each other and overlap. To overcome this, I had a variable that tracked when the last building of a specific type last spawned. It would spawn once, and then wait until the x-th number to spawn another one. But it would place a box of grass where a building would have gone to cover up the empty space.
+
+![](images/lab8_inspiration.jpg)
